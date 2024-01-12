@@ -1,0 +1,23 @@
+body {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+header {
+    text-align: center;
+}
+
+harder h1 {
+    color: #FBF9F1;
+    background-color: #92C7CF;
+}
+
+harder h4 {
+    margin-top: 32px;
+    color: #92C7CF;
+}
+
+harder p{
+    margin-top: 0px;
+    font-size: x-small;
+    color: #AAD7D9;
+}
